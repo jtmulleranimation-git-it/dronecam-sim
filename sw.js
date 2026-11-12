@@ -1,6 +1,6 @@
 // Offline cache: everything the app needs is stored on the device the first time it loads.
 // Bump CACHE when files change so the iPad picks up the new version next time it is online.
-const CACHE = 'dronecam-sim-0.1.4';
+const CACHE = 'dronecam-sim-0.2.0';
 const FILES = [
   './', './index.html', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png',
